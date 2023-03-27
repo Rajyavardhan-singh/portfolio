@@ -52,10 +52,10 @@ const ContactForm = ({ className }) => {
       try {
         emailjs
           .sendForm(
-            process.env.REACT_APP_EMAILJS_SERVICE_ID,
-            process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+            "service_mpw1bk2",
+            "template_2u753ps",
             formRef.current,
-            process.env.REACT_APP_EMAILJS_PUBLIC_ID
+            '9poIJY6hoCXCxDJrX'
 
 
           )
