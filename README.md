@@ -1,6 +1,6 @@
 # Rajyavardhan Singh Portfolio
 
-#### [Link - Mayank Jain Portfolio](https://mayank-jain.vercel.app/)
+#### [Link - Rajyavardhan Singh Rathore Portfolio](https://rajyavardhan.vercel.app/)
 This is a portfolio website built using React, Tailwind CSS, and Redux to showcase the projects and skills.
 
 ## Table of Contents
@@ -15,10 +15,10 @@ This is a portfolio website built using React, Tailwind CSS, and Redux to showca
 
 ## Demo
 
-### [Live App](EDIT)
+### [Live App](https://rajyavardhan.vercel.app/)
 
-#### [Video Demo](https://i.imgur.com/4wEJlz4.mp4)
-[<img src="https://imgur.com/NTL9nZh.png" width="500" height="250"/>](https://i.imgur.com/4wEJlz4.mp4)
+<!-- #### [Video Demo](https://i.imgur.com/4wEJlz4.mp4)
+[<img src="https://imgur.com/NTL9nZh.png" width="500" height="250"/>](https://i.imgur.com/4wEJlz4.mp4) -->
 
 
 ## Features
@@ -48,7 +48,7 @@ To get started with this project, you can follow the steps below:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/Mayank-Jain-1/Portfolio.git  EDIT
+git clone https://github.com/Rajyavardhan-singh/portfolio
 ```
 
 2. Navigate into the project directory.
