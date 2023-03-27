@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+  .tab-0{
+    @apply mx-1 sm:mx-1 md:mx-0 lg:mx-0;
+  }
+  .tab-1{
+    @apply mx-2 sm:mx-4 md:mx-3 lg:mx-4;
+  }
+  .tab-2{
+    @apply mx-4 sm:mx-7 md:mx-5 lg:mx-8;
+  }
+  .tab-3{
+    @apply mx-6 sm:mx-11 md:mx-8 lg:mx-12;
+  }
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #1d1d1d;
+}
