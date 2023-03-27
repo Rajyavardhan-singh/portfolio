@@ -7,7 +7,7 @@ const Profilelinks = () => {
       <a href="https://github.com/Rajyavardhan-singh" target="_blank" rel="noreferrer">
         <AiFillGithub className="mx-1 hover:text-brandGreen" />
       </a>
-      <a href="/"  rel="noreferrer">
+      <a href="https://rajyavardhan.vercel.app/"  rel="noreferrer">
         <AiFillLinkedin className="mx-1 hover:text-brandGreen" />
       </a>
       <a href="mailTo:rajyavardhansr@gmail.com">
