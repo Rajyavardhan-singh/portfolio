@@ -20,7 +20,7 @@ const Imgwall = () => {
       <ImgwallImage src={Netflix} projectLink="https://netflixclone-rust.vercel.app/"/>
       <ImgwallImage src={CloudCast} projectLink='https://cloud-cast.vercel.app/'/>
       <ImgwallImage src={heybuddy} projectLink='https://heybuddy-omega.vercel.app'/>
-      <ImgwallImage src={Portfolio} className='hidden md:block' projectLink='https://mayank-jain.vercel.app/'/>
+      <ImgwallImage src={Portfolio} className='hidden md:block' projectLink='https://rajyavardhan.vercel.app/'/>
       <ImgwallImage src={Foodies} projectLink='https://foodiesworld.vercel.app/'/>
       
     </div>
