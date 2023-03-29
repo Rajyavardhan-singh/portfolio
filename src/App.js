@@ -46,7 +46,7 @@ const App = () => {
       <Notifications />
       <div className="lg:pl-36 overflow-x-hidden">
         {loading ? (
-          <Loading />
+          <Loading className='translate-x-full duration-300' />
         ) : (
           <>
             <Loading className='translate-x-full duration-300'/>
